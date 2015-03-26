@@ -13,25 +13,37 @@
 		<key>1CCEF204770FFA6FA56AE5AC5AA11118E75F2D06</key>
 		<string>https://github.com/NickHardeman/ofxTweenzor.git</string>
 		<key>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</key>
-		<string>git://github.com/openframeworks/openFrameworks</string>
+		<string>github.com:danoli3/openFrameworks.git</string>
+		<key>F1AD355AD1011109B37CD207D38749C2B1ED69F0</key>
+		<string>github.com:mihnor/wesenseforbabies.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>apps/myApps/senseForBabies/senseForBabies.xcodeproj</string>
+	<string>senseForBabies.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1CCEF204770FFA6FA56AE5AC5AA11118E75F2D06</key>
-		<string>../../../../..addons/ofxTweenzor</string>
+		<string>../../../../../addons/ofxTweenzor</string>
 		<key>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</key>
 		<string>../../../../..</string>
+		<key>F1AD355AD1011109B37CD207D38749C2B1ED69F0</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>git://github.com/openframeworks/openFrameworks</string>
+	<string>github.com:mihnor/wesenseforbabies.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</string>
+	<string>F1AD355AD1011109B37CD207D38749C2B1ED69F0</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
@@ -44,9 +56,9 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2DE9C8846D9375EAACFABA8963120E8E7719BAF5</string>
+			<string>F1AD355AD1011109B37CD207D38749C2B1ED69F0</string>
 			<key>IDESourceControlWCCName</key>
-			<string>openFrameworks</string>
+			<string>senseForBabies</string>
 		</dict>
 	</array>
 </dict>
